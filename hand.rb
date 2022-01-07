@@ -1,12 +1,19 @@
 hand = "グー"
 if hand == "グー"
   puts "出した手はグーです"
-end  
+end
 
 if hand != "チョキ"
   puts "出した手はチョキではありません"
-end 
+end
 
 if (hand == "グー")||(hand =="パー")
   puts "出した手はグーまたはパーです"
-end   
+end
+# カッコで囲むと３つ以上繋げた場合わかりやすくなる
+
+if hand == "グー" || hand=="パー"
+  puts "出した手はグーまたはパーです"
+end
+
+# 学習2回目

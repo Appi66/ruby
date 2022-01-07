@@ -6,3 +6,5 @@ elsif total_price == 100
 else
   puts "みかんを購入することができません。"
 end
+
+# 学習2回目
