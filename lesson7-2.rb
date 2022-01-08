@@ -23,3 +23,5 @@ while i <= input do
 end
 
 puts "計算を終了します"
+
+# 学習2回目
